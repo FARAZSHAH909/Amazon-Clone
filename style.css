@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url("Amazon Clone/amazon_logo.png");
+    background-image: url("Amazon-Clone/amazon_logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -144,7 +144,7 @@ span {
 
 /* hero section */
 .hreo-section {
-    background-image: url("Amazon Clone/hero_image.jpg");
+    background-image: url("Amazon-Clone/hero_image.jpg");
     height: 380px;
     background-size: cover;
 
@@ -247,7 +247,7 @@ ul a {
 }
 
 .panel-logo {
-    background-image: url("Amazon Clone/amazon_logo.png");
+    background-image: url("Amazon-Clone/amazon_logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
